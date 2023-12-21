@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760751468285",
+    "project_id": "app-aiep-2023",
+    "storage_bucket": "app-aiep-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760751468285:android:43c52a1af5d7413ce15894",
+        "android_client_info": {
+          "package_name": "cl.ico.appaiep2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdi29FocbAIE28-v1GT6HiQ6asy_i-I7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
